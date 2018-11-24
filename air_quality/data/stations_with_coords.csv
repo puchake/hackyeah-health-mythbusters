@@ -1,0 +1,265 @@
+,NR,WOJEWÓDZTWO,KOD STARY,KOD NOWY,NAZWA STACJI,MIEJSCOWOSC,ADRES,lats,lngs
+0,1,DOLNOŚLĄSKIE,DsBogatMob,DsBogatFrancMOB,Bogatynia Mobil,Bogatynia,ul. Francuska/Kręta,50.94082830000001,14.9166025
+1,2,DOLNOŚLĄSKIE,DsCzer02,DsCzerStraza,Czerniawa,Czerniawa,ul. Strażacka,50.9137397,15.3104831
+2,3,DOLNOŚLĄSKIE,DsDzia01,DsDzialoszyn,Działoszyn,Działoszyn,,50.9795763,14.9504676
+3,4,DOLNOŚLĄSKIE,DsDzierPilsA,DsDziePilsud,Dzierżoniów - Piłsudskiego,Dzierżoniów,ul. Piłsudskiego,50.7306059,16.6515411
+4,5,DOLNOŚLĄSKIE,DsGlogWita,DsGlogWiStwo,Głogów - Wita Stwosza,Głogów,ul. Wita Stwosza,51.6491603,16.0995828
+5,6,DOLNOŚLĄSKIE,DsJeleniaGoraA,DsJelGorOgin,Jelenia Góra - Ogińskiego,Jelenia Góra,ul. Ogińskiego 6,50.9132539,15.763495
+6,7,DOLNOŚLĄSKIE,DsJeleniaGoraPM,DsJelGorSoko,Jelenia Góra - Sokoliki,Jelenia Góra,ul. Sokoliki 6,50.8708389,15.6999283
+7,8,DOLNOŚLĄSKIE,DsKlodzkoA,DsKlodzSzkol,Kłodzko - Szkolna,Kłodzko,ul. Szkolna 8,50.4335488,16.6522789
+8,9,DOLNOŚLĄSKIE,DsLegRzeczA,DsLegAlRzecz,Legnica - Rzeczypospolitej,Legnica,al. Rzeczypospolitej 10/12,51.2043793,16.1800501
+9,10,DOLNOŚLĄSKIE,DsNRudaSrebP,DsNowRudSreb,Nowa Ruda - Srebrna,Nowa Ruda,ul. Srebrna 1a,50.579918,16.513762
+10,11,DOLNOŚLĄSKIE,DsOlawaSemi,DsOlawZolnAK,Oława - Żołnierzy AK,Oława,ul. Żołnierzy AK 9,50.9421428,17.291718
+11,12,DOLNOŚLĄSKIE,DsOlesnicaPM,DsOlesBrzozo,Oleśnica - Brzozowa,Oleśnica,ul. Brzozowa 7,51.2168661,17.3903876
+12,13,DOLNOŚLĄSKIE,DsOsieczow,DsOsieczow21,Osieczów,Osieczów,,51.2954476,15.4373351
+13,14,DOLNOŚLĄSKIE,DsPolkKasz,DsPolKasztan,Polkowice - Kasztanowa,Polkowice,ul. Kasztanowa,51.5028625,16.0753852
+14,15,DOLNOŚLĄSKIE,DsSniezka,DsSniezkaObs,Śnieżka,,Śnieżka,50.7360171,15.7399457
+15,16,DOLNOŚLĄSKIE,DsSwidMob,DsSwidnMarciMOB,Świdnica - Marcinkowskiego,Świdnica,ul. Karola Marcinkowskiego 4-6,50.845533,16.466794
+16,17,DOLNOŚLĄSKIE,DsSwidRynek,DsSwidnRynek,Świdnica - Rynek,Świdnica,ul. Rynek 43,50.8425203,16.4866203
+17,18,DOLNOŚLĄSKIE,DsSzczDZPM,DsSzczaKolej,Szczawno-Zdrój - Kolejowa,Szczawno-Zdrój,ul. Kolejowa 14,50.8040759,16.253055
+18,19,DOLNOŚLĄSKIE,DsWalbWysA,DsWalbrzWyso,Wałbrzych - Wysockiego,Wałbrzych,ul. Wysockiego 11,50.7709553,16.2725478
+19,20,DOLNOŚLĄSKIE,DsWrocWisA,DsWrocAlWisn,Wrocław - Wiśniowa,Wrocław,al. Wiśniowa/Powst. Śląskich,51.086535,17.0119715
+20,21,DOLNOŚLĄSKIE,DsWrocBartA,DsWrocBartni,Wrocław - Bartnicza,Wrocław,ul. Bartnicza,51.1177289,17.1439835
+21,22,DOLNOŚLĄSKIE,DsWrocGrobla,DsWrocNaGrob,Wrocław - Na Grobli,Wrocław,ul. Na Grobli,51.0998664,17.0740111
+22,23,DOLNOŚLĄSKIE,DsWrocOrzech,DsWrocOrzech,Wrocław - Orzechowa,Wrocław,ul. Orzechowa 61,51.0783703,17.0415945
+23,24,DOLNOŚLĄSKIE,DsWrocKorzA,DsWrocWybCon,Wrocław - Korzeniowskiego,Wrocław,ul. Wyb. J.Conrada-Korzeniowskiego,51.130027,17.0329472
+24,25,DOLNOŚLĄSKIE,DsZabkowSemi,DsZabkPowWar,Ząbkowice Śląskie,Ząbkowice Śląskie,ul. Powstańców Warszawy 5,50.5901735,16.8176049
+25,26,DOLNOŚLĄSKIE,DsZgorzBohA,DsZgorBohGet,Zgorzelec - Bohaterów Getta,Zgorzelec,ul. Bohaterów Getta,51.14958379999999,15.0077754
+26,27,DOLNOŚLĄSKIE,DsZlotoryjaPM,DsZlotoStasz,Złotoryja - Staszica,Złotoryja,ul. Stanisława Staszica 22,51.12393849999999,15.9200291
+27,28,KUJAWSKO-POMORSKIE,KpBrodnicaKochanowskiego,KpBrodKochan,"Brodnica, Kochanowskiego",Brodnica,ul. Kochanowskiego,53.2496804,19.4158253
+28,29,KUJAWSKO-POMORSKIE,KpBydgBerlinga,KpBydBerling,"Bydgoszcz, ul. Berlinga",Bydgoszcz,ul. Berlinga 13,53.150667,18.1316844
+29,30,KUJAWSKO-POMORSKIE,KpBydgPlPozn,KpBydPlPozna,Bydgoszcz Plac Poznański,Bydgoszcz,pl. Poznański,53.1223855,17.9876391
+30,31,KUJAWSKO-POMORSKIE,KpBydgWarszawska,KpBydWarszaw,Warszawska,Bydgoszcz,ul. Warszawska 10,53.1345721,17.9946336
+31,32,KUJAWSKO-POMORSKIE,KpCiechoTezniowa,KpCiechTezni,Ciechocinek,Ciechocinek,ul. Tężniowa - Park Zdrojowy,52.8819965,18.7930341
+32,33,KUJAWSKO-POMORSKIE,KpAirpGrudz,KpGrudPilsud,Grudziądz Airpointer,Grudziądz,ul. Piłsudskiego 51,53.49353130000001,18.7617957
+33,34,KUJAWSKO-POMORSKIE,KpGrudzStar,KpGrudSienki,Grudziądz Starówka,Grudziądz,ul. Sienkiewicza 27,53.4923485,18.7536697
+34,35,KUJAWSKO-POMORSKIE,KpAirpInowr,KpInowSolank,Inowrocław Airpointer,Inowrocław,ul. Solankowa,52.7955152,18.2513032
+35,36,KUJAWSKO-POMORSKIE,KpKoniczZMSP,KpKoniczynka,Koniczynka,Koniczynka,,53.07861519999999,18.6857763
+36,37,KUJAWSKO-POMORSKIE,KpNakloPiotraSkargi,KpNaklSkargi,Nakło Piotra Skargi,Nakło nad Notecią,ul. Piotra Skargi,53.1396482,17.6043436
+37,38,KUJAWSKO-POMORSKIE,KpTorunDziewulsk,KpToruDziewu,Toruń POLICJA,Toruń,ul. Dziewulskiego 1,53.0283674,18.6669452
+38,39,KUJAWSKO-POMORSKIE,KpTorunKaszownik,KpToruKaszow,"Toruń, KASZOWNIK",Toruń,ul. Przy Kaszowniku,53.0177337,18.6113884
+39,40,KUJAWSKO-POMORSKIE,KpAirpTorunIMGW,KpToruStorczMOB,"Toruń, ul. Storczykowa",Toruń,ul. Storczykowa 124,53.04244190000001,18.5958039
+40,41,KUJAWSKO-POMORSKIE,KpTorunRubITALTEL,KpToruSzLubi,"Toruń, ""RUBINKOWO - ITALTEL""",Toruń,ul. Szosa Lubicka / Przy Skarpie,53.024606,18.666784
+41,42,KUJAWSKO-POMORSKIE,KpAirpTorun,KpToruWSikor,Toruń Airpointer,Toruń,ul. Wały Gen. Sikorskiego 12,53.012458,18.6060526
+42,43,KUJAWSKO-POMORSKIE,KpAirpWieniec,KpWieniecZdrMOB,"Wieniec Zdrój, ul. Brzozowa",Wieniec Zdrój,ul. Brzozowa ,52.65700529999999,18.9906507
+43,44,KUJAWSKO-POMORSKIE,KpAirpWiktorowo,KpWiktorowoG,Lafarge- Airpointer,Wiktorowo,Wiktorowo 22,52.8110259,17.8598073
+44,45,KUJAWSKO-POMORSKIE,KpAirpWlocWod,KpWloclChelmMOB,Airpointer Włocławek,Włocławek,ul. Chełmicka,52.6731713,19.0823983
+45,46,KUJAWSKO-POMORSKIE,KpWloclOkrzei,KpWloclOkrze,Włocławek OKRZEI,Włocławek,ul. Okrzei,52.6535045,19.0602664
+46,47,KUJAWSKO-POMORSKIE,KpWloclSielska,KpWloclSiels,"Włocławek ""Sielska DMD""",Włocławek,ul. Sielska 3,52.664632,19.037139
+47,48,KUJAWSKO-POMORSKIE,KpZielBoryTuch,KpZielBoryTu,Bory Tucholskie,Zielonka,,53.0630094,17.9421703
+48,49,KUJAWSKO-POMORSKIE,KpZninPotockiego,KpZninPotock,Żnin Starostwo Potockiego,Żnin,ul. Potockiego 1,52.8484128,17.7340169
+49,50,LUBELSKIE,LbBialaPOrzechowa,LbBiaPodOrze,WIOŚ-DBP-Orzechowa,Biała Podlaska,ul. Orzechowa,52.02849029999999,23.1486626
+50,51,LUBELSKIE,LbBialySlupRPN_Auto,LbBiaSlupRPN,Biały Słup Automat,Biały Słup,,50.590905,22.9956498
+51,52,LUBELSKIE,LbChelmJagWIOS,LbChelJagiel,Chełm ul. Jagiellońska,Chełm,ul. Jagiellońska 64,51.1312505,23.5156608
+52,53,LUBELSKIE,LbJarczew,LbJarczWolaM,IMGW-Jarczew,Jarczew,ul. Jarczew,51.81387640000001,21.9582973
+53,54,LUBELSKIE,LbKrasnikKoszarowa,LbKrasKoszar,Kraśnik ul. Koszarowa 10A,Kraśnik,ul. Koszarowa 10A,50.928346,22.2276469
+54,55,LUBELSKIE,LbLublinWIOS,LbLubObywate,Lublin ul. Obywatelska,Lublin,ul. Obywatelska 13,51.2592039,22.568631
+55,56,LUBELSKIE,LbLublin_Sliwins_5,LbLubSliwins,Lublin Ul. Śliwińskiego 5,Lublin,ul. Śliwińskiego 5,51.2726967,22.5503935
+56,57,LUBELSKIE,LbPulawyKarp,LbPulaKarpin,,Puławy,ul. Karpińskiego 5,51.4195637,21.9611174
+57,58,LUBELSKIE,LbPulawySkowieszynska,LbPulaSkowie,Puławy ul. Skowieszyńska,Puławy,ul. Skowieszyńska 51,51.41002930000001,21.9774934
+58,59,LUBELSKIE,LbRadzyPSitkowskiego,LbRadzPodSit,WIOŚ-RadzyńP-Sitkowskiego,Radzyń Podlaski,ul. Sitkowskiego 1b,51.7797089,22.6262419
+59,60,LUBELSKIE,LbWilczopole,LbWilczopole,Lublin-Podmiejska,Wilczopole,,51.1676509,22.6539609
+60,61,LUBELSKIE,LbZamoscHrubieszowsk,LbZamoHrubie,Zamość ul. Hrubieszowska 69A,Zamość,ul. Hrubieszowska 69A,50.716502,23.2906489
+61,62,ŁÓDZKIE,LdBrzeziWIOSMReforma,LdBrzeReform,Brzeziny-Reformacka1,Brzeziny,ul. Reformacka 1,51.79870289999999,19.755283
+62,63,ŁÓDZKIE,LdGajewWIOSAGajew,LdGajewUjWod,Gajew,Gajew,Ujęcie wody,52.1485941,19.2351666
+63,64,ŁÓDZKIE,LdKutnoWIOSMKoscius,LdKutnKosciu,Kutno-Kościuszki 26,Kutno,ul. Kościuszki 26,52.2353435,19.3671005
+64,65,ŁÓDZKIE,LdLodzPalki,LdLodzAlPalk,Łódź-Al. Palki/Telefoniczna,Łódź,al. Palki,51.7855672,19.4833344
+65,66,ŁÓDZKIE,LdLodzWIOSACzernik,LdLodzCzerni,Łódź-Widzew,Łódź,ul. Czernika 1/3,51.7576104,19.5276628
+66,67,ŁÓDZKIE,LdLodzWIOSAGdanska,LdLodzGdansk,Łódź-Gdańska 16,Łódź,ul. Gdańska 16,51.77523739999999,19.4493068
+67,68,ŁÓDZKIE,LdLodzWIOSAKilinsk,LdLodzKilins,Łódź-Kilińskiego 102/102a,Łódź,ul. Kilińskiego 102/102a,51.7637502,19.4673642
+68,69,ŁÓDZKIE,LdLodzWSSEMLegiono,LdLodzLegion,Łódź-Legionów 1,Łódź,ul. Legionów 1,51.7767853,19.453378
+69,70,ŁÓDZKIE,LdLodzWIOSALipowa,LdLodzLipowa,Łódź-Lipowa,Łódź,ul. Lipowa 81,51.762515,19.4455136
+70,71,ŁÓDZKIE,LdLodzWSSEMRudzka,LdLodzRudzka,Łódź-Rudzka60,Łódź,ul. Rudzka 60,51.7048613,19.4350138
+71,72,ŁÓDZKIE,LdLodzWIOSAZachodn,LdLodzZachod,Łódź-Zachodnia 40,Łódź,ul. Zachodnia 40,51.777685,19.4527981
+72,73,ŁÓDZKIE,LdLowSienkie,LdLowiczSien,Łowicz-Henryka Sienkiewicza 62,Łowicz,ul. Henryka Sienkiewicza 62,52.10521869999999,19.9395507
+73,74,ŁÓDZKIE,LdOpocznWIOSMPlKosci,LdOpocPlKosc,Opoczno-Pl Kościuszki 15,Opoczno,pl. Kościuszki 15,51.3769789,20.2888559
+74,75,ŁÓDZKIE,LdPabianWIOSMKilinsk,LdPabiKilins,Pabianice-Kilińskiego 4,Pabianice,ul. Kilińskiego 4,51.66330070000001,19.3553472
+75,76,ŁÓDZKIE,LdPabianWIOSAKonstan,LdPabiKonsta,Pabianice-Polfa,Pabianice,ul. Konstantynowska,51.6689896,19.3695501
+76,77,ŁÓDZKIE,LdParzniWIOSAParznie,LdParzniUjWo,Parzniewice,Parzniewice,Ujęcie wody,51.2983967,19.5157521
+77,78,ŁÓDZKIE,LdPiotrkWIOSAKrakPrz,LdPioTrKraPr,Piotrków Tryb.-Krakowskie Przedmieście,Piotrków Trybunalski,ul. Krakowskie Przedmieście 13,51.4050325,19.6969419
+78,79,ŁÓDZKIE,LdPiotrkWIOSMSienkie,LdPioTrSienk,PiotrkówTryb.-Sienkiewicza 16,Piotrków Trybunalski,ul. Sienkiewicza 16,51.40517209999999,19.7030244
+79,80,ŁÓDZKIE,LdRadomsWIOSMRolna2,LdRadomsRoln,Radomsko-Rolna2,Radomsko,ul. Rolna 2,51.067741,19.4484229
+80,81,ŁÓDZKIE,LdRadomsWIOSASokola4,LdRadomsSoko,Radomsko-Sokola4,Radomsko,ul. Sokola 4,51.0640381,19.4509811
+81,82,ŁÓDZKIE,LdRawaMaWIOSMNiepodl,LdRawaNiepod,Rawa Mazowiecka-Niepodległości 8,Rawa Mazowiecka,ul. Niepodległości 8,51.7610932,20.2508758
+82,83,ŁÓDZKIE,LdSieradWSSEMGrunwal,LdSierGrunwa,Sieradz-Grunwaldzka 28,Sieradz,ul. Grunwaldzka 28,51.59399029999999,18.7145555
+83,84,ŁÓDZKIE,LdSkiernWIOSMKonopni,LdSkierKonop,Skierniewice-Marii Konopnickiej 5,Skierniewice,ul. Marii Konopnickiej 5,51.954866,20.1497736
+84,85,ŁÓDZKIE,LdTomaszWIOSMSwAnton,LdToMaSwAnto,TomaszówMaz.-Św. Antoniego43,Tomaszów Mazowiecki,ul. Św. Antoniego 43/45,51.52637929999999,20.0147359
+85,86,ŁÓDZKIE,LdWielunWIOSMPOW,LdWieluPOW12,Wieluń-POW 12,Wieluń,ul. P.O.W. 12,51.218671,18.5819355
+86,87,ŁÓDZKIE,LdZdWolaWIOSMKrolews,LdZduWoKrole,ZduńskaWola-Królewska10,Zduńska Wola,ul. Królewska 10,51.6012607,18.9394427
+87,88,ŁÓDZKIE,LdZgierzWIOSAMielcza,LdZgieMielcz,Zgierz-Śródmieście,Zgierz,ul. Mielczarskiego 1,51.8567633,19.4209125
+88,89,LUBUSKIE,LuGorzowWIOS_AUT,LuGorzKosGdy,Gorzów Wlkp. ul. Kosynierów Gdyńskich,Gorzów Wielkopolski,ul. Kosynierów Gdyńskich,52.7367212,15.2295882
+89,90,LUBUSKIE,LuGorzowWIOS_MAN,LuGorzPilsud,Gorzów Wlkp. ul. Piłsudskiego,Gorzów Wielkopolski,ul. Piłsudskiego,52.7488977,15.2444199
+90,91,LUBUSKIE,LuSmobytWIOS_AUT,LuSmolBytnic,Smolary Bytnickie,Smolary Bytnickie,,52.17666699999999,15.208611
+91,92,LUBUSKIE,LuSulecWIOS_MOB,LuSulecDudka,Sulęcin ul. Dudka,Sulęcin,ul. Dudka,52.42981760000001,15.1394069
+92,93,LUBUSKIE,LuWschowWIOS_AUT,LuWsKaziWiel,Wschowa ul. Kazimierza Wielkiego,Wschowa,ul. Kazimierza Wielkiego,51.7821076,16.3117643
+93,94,LUBUSKIE,LuZaryWIOS_AUT,LuZarySzyman,"Żary, ul. Szymanowskiego 8",Żary,ul. Szymanowskiego 8,51.6431968,15.1282762
+94,95,LUBUSKIE,LuZgoraWIOS_AUT,LuZielKrotka,Zielona Góra ul. Krótka,Zielona Góra,ul. Krótka,51.9400163,15.5185818
+95,96,MAŁOPOLSKIE,MpBochniWIOSKBar0106,MpBochKonfed,"Bochnia, ul. Konfederatów Barskich",Bochnia,ul. Konfederatów Barskich,49.9703393,20.4399375
+96,97,MAŁOPOLSKIE,MpBukownWIOSKole1206,MpBukowKolejMOB,Bukowno,Bukowno,ul. Kolejowa,50.2785352,19.4698751
+97,98,MAŁOPOLSKIE,MpGorlicWIOSKras0511,MpGorlKrasin,"Gorlice, ul. Krasińskiego",Gorlice,ul. Krasińskiego,49.6591373,21.1618806
+98,99,MAŁOPOLSKIE,MpKetyWIOSWysp1304,MpKetyWyspiaMOB,"Kęty, ul. Wyspiańskiego",Kęty,ul. Wyspiańskiego,49.87769,19.2159919
+99,100,MAŁOPOLSKIE,MpKrakowWIOSAKra6117,MpKrakAlKras,"Kraków, Aleja Krasińskiego",Kraków,al. Krasińskiego,50.056829,19.9264141
+100,101,MAŁOPOLSKIE,MpKrakowWIOSBuja6119,MpKrakBujaka,"Kraków, ul. Bujaka",Kraków,ul. Bujaka,50.0098704,19.9514244
+101,102,MAŁOPOLSKIE,MpKrakowWIOSBulw6118,MpKrakBulwar,"Kraków, ul. Bulwarowa",Kraków,ul. Bulwarowa,50.0784293,20.0508618
+102,103,MAŁOPOLSKIE,MpLimanoWIOSMBBo0706,MpLimanoBoleMOB,"Limanowa, ul. Matki Bożej Bolesnej",Limanowa,ul. Matki Bożej Bolesnej,49.7020462,20.4353005
+103,104,MAŁOPOLSKIE,MpMyslenWIOSRyne0907,MpMysleRynekMOB,"Myślenice, Rynek",Myślenice,Rynek,49.835004,19.9379424
+104,105,MAŁOPOLSKIE,MpWielicWIOSNiep1904,MpNiepo3Maja,"Niepołomice, ul. 3 Maja",Niepołomice,ul. 3 Maja,50.0355109,20.215584
+105,106,MAŁOPOLSKIE,MpNSaczWIOSNadb6205,MpNoSaczNadb,"Nowy Sącz, ul. Nadbrzeżna",Nowy Sącz,ul. Nadbrzeżna,49.6211308,20.7107775
+106,107,MAŁOPOLSKIE,MpOlkuszWIOSNull1205,MpOlkuFrNull,"Olkusz, ul. Francesco Nullo",Olkusz,ul. Francesco Nullo,50.2772202,19.5696585
+107,108,MAŁOPOLSKIE,MpSkawinWIOSOsie0606,MpSkawOsOgro,"Skawina, os. Ogrody",Skawina,os. Ogrody,49.9705865,19.836325
+108,109,MAŁOPOLSKIE,MpSlomniWIOSWoln0611,MpSlomWolnosMOB,"Słomniki, ul. Wolności",Słomniki,ul. Wolności,50.242774,20.0815048
+109,110,MAŁOPOLSKIE,MpSuchaBWIOSSemi1513,MpSuchSemika,"Sucha Beskidzka, ul. Semika",Sucha Beskidzka,ul. Semika,49.7407123,19.5927434
+110,111,MAŁOPOLSKIE,MpSzarowWIOS1909,MpSzarowSpok,"Szarów, ul. Spokojna",Szarów,ul. Spokojna,49.9880722,20.2734881
+111,112,MAŁOPOLSKIE,MpSzczawWIOSSzal1116,MpSzczawJanaMOB,"Szczawnica, ul. Jana Wiktora",Szczawnica,ul. Jana Wiktora,49.42563519999999,20.4859789
+112,113,MAŁOPOLSKIE,MpSzymbaWIOS0507,MpSzymbaGorl,Szymbark,Szymbark,gm. Gorlice,49.6192297,21.0822008
+113,114,MAŁOPOLSKIE,MpTarnowWIOSBitw6304,MpTarBitStud,"Tarnów, ul. Bitwy pod Studziankami",Tarnów,ul. Bitwy pod Studziankami,50.0189771,21.0023258
+114,115,MAŁOPOLSKIE,MpTrzebiWIOSZWM0305,MpTrzebOsZWM,"Trzebinia, os. Związku Walki Młodych",Trzebinia,os. Związku Walki Młodych,50.15847,19.4694
+115,116,MAŁOPOLSKIE,MpTuchowWIOSSzop1602,MpTuchChopin,"Tuchów, ul. Chopina",Tuchów,ul. Chopina,49.8940901,21.0521097
+116,117,MAŁOPOLSKIE,MpZakopaWIOSRown1701,MpZakopaSien,"Zakopane, ul. Sienkiewicza",Zakopane,ul. Sienkiewicza,49.2966287,19.959694
+117,118,MAZOWIECKIE,MzBelskIGFPAN,MzBelsIGFPAN,Belsk-IGFPAN,Belsk Duży,Osiedle PAN 1,51.80888419999999,20.8145971
+118,119,MAZOWIECKIE,MzGranicaKPN,MzGranicaKPN,Granica-KPN,Granica,ul. Kampinoski Park Narodowy,52.2865511,20.4436737
+119,120,MAZOWIECKIE,MzLegionZegIMGW,MzLegZegrzyn,Legionowo-Zegrzyńska,Legionowo,ul. Zegrzyńska 38,52.4079075,20.9546304
+120,121,MAZOWIECKIE,MzMlawaOrdona,MzMlawOrdona,Mława-Ordona,Mława,ul. Ordona 14,53.11242499999999,20.3719878
+121,122,MAZOWIECKIE,MzOstrolHallera,MzOstroHalle,Ostrołęka-Hallera,Ostrołęka,gen. J. Hallera 12,53.0839493,21.5798398
+122,123,MAZOWIECKIE,MzOtwockBrzoz,MzOtwoBrzozo,Otwock-Brzozowa,Otwock,ul. Brzozowa 2,52.11544989999999,21.2376643
+123,124,MAZOWIECKIE,MzPiastowPulask,MzPiasPulask,Piastów-Pułaskiego,Piastów,ul. Pułaskiego 6/8,52.19142550000001,20.8369079
+124,125,MAZOWIECKIE,MzPlockPKN,MzPlocKroJad,Płock-Gimnazjum,Płock,ul. Królowej Jadwigi 4,52.55694219999999,19.6868044
+125,126,MAZOWIECKIE,MzPlockReja,MzPlocMiReja,Płock-Reja,Płock,ul. Reja 28,52.55135749999999,19.7095824
+126,127,MAZOWIECKIE,MzRadomCz,MzRad25Czerw,Radom-Czerwca,Radom,ul. 25 Czerwca 1976,51.4001426,21.1626299
+127,128,MAZOWIECKIE,MzRadomHallera,MzRadHallera,Radom-Hallera,Radom,ul. Hallera,51.4160733,21.1705406
+128,129,MAZOWIECKIE,MzRadomTochter,MzRadTochter,Radom-Tochtermana,Radom,ul. Tochtermana 1,51.3998412,21.1459024
+129,130,MAZOWIECKIE,MzSiedlceKonar,MzSiedKonars,Siedlce-Konarskiego,Siedlce,ul. Konarskiego 11,52.1721503,22.2828899
+130,131,MAZOWIECKIE,MzWarszAKrzywon,MzWarAKrzywo,Warszawa-Anieli Krzywoń,Warszawa,ul. Anieli Krzywoń,52.2273928,20.918422
+131,132,MAZOWIECKIE,MzWarNiepodKom,MzWarAlNiepo,Warszawa-Komunikacyjna,Warszawa,al. Niepodległości 227/233,52.2196231,21.0044046
+132,133,MAZOWIECKIE,MzWarTarKondra,MzWarKondrat,Warszawa-Targówek,Warszawa,ul. Kondratowicza 8,52.2909263,21.0447853
+133,134,MAZOWIECKIE,MzWarszMarsz,MzWarMarszal,Warszawa-Marszałkowska,Warszawa,ul. Marszałkowska 68,52.2252754,21.0149406
+134,135,MAZOWIECKIE,MzWarPodIMGW,MzWarPodlesn,Warszawa-Podleśna,Warszawa,ul. Podleśna 61,52.28091200000001,20.9613689
+135,136,MAZOWIECKIE,MzWarszPorajow,MzWarPorajow,Warszawa-Porajów,Warszawa,ul. Porajów 3,52.314756,20.96097
+136,137,MAZOWIECKIE,MzWarszPuszSolska,MzWarPuszSol,Warszawa-Puszczy Solskiej,Warszawa,ul. Puszczy Solskiej 5,52.226617,20.908763
+137,138,MAZOWIECKIE,MzWarszBielany,MzWarTolstoj,Warszawa-Tołstoja,Warszawa,ul. Tołstoja 2,52.28400730000001,20.9325568
+138,139,MAZOWIECKIE,MzWarszUrsynow,MzWarWokalna,Warszawa-Ursynów,Warszawa,ul. Wokalna 1,52.1605887,21.0329644
+139,140,MAZOWIECKIE,MzZyrardRoosevel,MzZyraRoosev,Żyrardów-Roosevelta,Żyrardów,ul. Roosevelta 2,52.053382,20.4294317
+140,141,OPOLSKIE,OpGlub1pyl,OpGlubKochan,Głubczyce manualna 1,Głubczyce,ul. Kochanowskiego 23,50.200984,17.819972
+141,142,OPOLSKIE,OpKkozle1a,OpKKozBSmial,K-Koźle automat 1,Kędzierzyn-Koźle,ul. Bolesława Śmiałego 5,50.3492569,18.2359109
+142,143,OPOLSKIE,OpKlucz2pyl,OpKluczMicki,Kluczbork manualna 2,Kluczbork,ul. Mickiewicza 10,50.9732399,18.207613
+143,144,OPOLSKIE,OpNysa3pyl,OpNysaRodzie,Nysa manualna 3,Nysa,ul. Rodziewiczówny 1,50.4606042,17.3300406
+144,145,OPOLSKIE,OpOlesno4a,OpOlesSlowac,Olesno automat 4,Olesno,ul. Słowackiego,50.8775724,18.4168659
+145,146,OPOLSKIE,OpOpole3a,OpOpoleMinor,Opole automat 3,Opole,ul. Minorytów,50.6671207,17.9219982
+146,147,OPOLSKIE,OpOpole4pyl,OpOpoleOsAKr,Opole manualna 4,Opole,os. Armii Krajowej,50.67802,17.9484918
+147,148,OPOLSKIE,OpZdze2a,OpZdziePiast,Zdzieszowice automat 2,Zdzieszowice,ul. Piastów 6,50.423924,18.120776
+148,149,PODLASKIE,PdBialyPodmiejska,PdBialPulPie,Białystok-Podmiejska,Białystok,ul. 42 Pułku Piechoty,53.1426937,23.2125691
+149,150,PODLASKIE,PdBialyWarszawska,PdBialWarsza,Białystok-Warszawska,Białystok,ul. Warszawska 75 A,53.1293269,23.180979
+150,151,PODLASKIE,PdBialyMiejska,PdBialWaszyn,Białystok-Miejska,Białystok,ul. Waszyngtona 16,53.1250329,23.1565551
+151,152,PODLASKIE,PdBorsuWiejska,PdBorsukowiz,Borsukowizna-Wiejska,Borsukowizna,,53.063889,23.485833
+152,153,PODLASKIE,PdLomzaSikorskiego,PdLomSikorsk,Lomza Sikorskiego 48/94,Łomża,ul. Sikorskiego 48/94,53.1833862,22.0551772
+153,154,PODLASKIE,PdSuwPulaski,PdSuwPulaski,"Suwałki, ul. Pułaskiego 73",Suwałki,ul. Pułaskiego,54.1314962,22.9510118
+154,155,PODKARPACKIE,PkDebicaWIOSGrottgera,PkDebiGrottg,Dębica-Grottgera-WIOS,Dębica,Grottgera 3,50.053869,21.415869
+155,156,PODKARPACKIE,PkJarosWIOSPWSTE,PkJarosPruch,Jarosław-PWSTE-WIOS,Jarosław,ul. Pruchnicka,50.0063348,22.6755978
+156,157,PODKARPACKIE,PkJasloWIOSSikorskiego,PkJasloSikor,Jaslo-Sikorskiego-WIOS,Jasło,ul. Sikorskiego,49.742881,21.4591732
+157,158,PODKARPACKIE,PkKrempnaWIOSMPN,PkKrempnaMPN,Krempna-MPN-WIOS,Krempna,,49.5109776,21.5004151
+158,159,PODKARPACKIE,PkKrosnoWIOSKletowki,PkKrosKletow,Krosno-Kletówki,Krosno,ul. Kletówki,49.6913546,21.7512774
+159,160,PODKARPACKIE,PkMielecWIOSSolskiego,PkMielSolski,Mielec-MOSIR-WIOS,Mielec,ul. Solskiego,50.2978628,21.4378374
+160,161,PODKARPACKIE,PkMielWIOSZarzStr,PkMielZaStre,Mielec - Zarząd Strefy,Mielec,ul. Zarząd Strefy,50.303943,21.470643
+161,162,PODKARPACKIE,PkNiskoWIOSSzklar,PkNiskoSzkla,Nisko-Szklarniowa-WIOS,Nisko,ul. Szklarniowa,50.53102089999999,22.1120892
+162,163,PODKARPACKIE,PkPrzemyslWIOSGrunw,PkPrzemGrunw,Przemysl-Grunwaldzka-WIOS,Przemyśl,ul. Grunwaldzka,49.7849486,22.752192
+163,164,PODKARPACKIE,PkRzeszWIOSNoweMiasto,PkRzeszRejta,Rzeszów-Nowe Miasto,Rzeszów,ul. Rejtana,50.0282449,22.0173139
+164,165,PODKARPACKIE,PkSanokWIOSSadowa,PkSanoSadowa,Sanok-Sadowa-WIOS,Sanok,ul. Sadowa,49.5707321,22.1940598
+165,166,PODKARPACKIE,PkTarnobWIOSDabrow,PkTarnDabrow,Tarnobrzeg-M.Dabrowskiej-WIOS,Tarnobrzeg,ul. Marii Dąbrowskiej,50.5746322,21.686266
+166,167,POMORSKIE,Pm.D,PmGac,WIOŚ Gać - Słowiński Park Narodowy,Gać,,54.4610255,16.8513141
+167,168,POMORSKIE,Pm.00.s481m,PmGdaGleboka,WIOŚ Gdańsk - Głęboka,Gdańsk,ul. Głęboka 11,54.352403,18.6737929
+168,169,POMORSKIE,Pm.a02a,PmGdaKacze02,AM2 Gdańsk Stogi,Gdańsk,ul. Kaczeńce,54.3636172,18.7000077
+169,170,POMORSKIE,Pm.aw08m,PmGdaLecz08m,WIOŚ Gdańsk - Leczkowa,Gdańsk,ul. Leczkowa,54.37833209999999,18.6199741
+170,171,POMORSKIE,Pm.a08a,PmGdaLeczk08,AM8 Gdańsk Wrzeszcz,Gdańsk,ul. Leczkowa,54.37833209999999,18.6199741
+171,172,POMORSKIE,Pm.a05a,PmGdaOstrz05,AM5 Gdańsk Szadółki,Gdańsk,ul. Ostrzycka,54.32868029999999,18.5572542
+172,173,POMORSKIE,Pm.a01a,PmGdaPoWie01,AM1 Gdańsk Śródmieście,Gdańsk,ul. Powstańców Warszawskich,54.3564294,18.6203736
+173,174,POMORSKIE,Pm.01w.02m,PmGdaPowWiel,Zaspa,Gdańsk,ul. Powstańców Wielkopolskich,54.3999037,18.6146777
+174,175,POMORSKIE,Pm.a03a,PmGdaWyzwo03,AM3 Gdańsk Nowy Port,Gdańsk,ul. Wyzwolenia,54.3996949,18.6629266
+175,176,POMORSKIE,Pm.00.w237m,PmGdyJozBema,WIOŚ Gdynia - Bema,Gdynia,ul. Bema,54.5099308,18.5395561
+176,177,POMORSKIE,Pm.a04a,PmGdyPoreb04,AM4 Gdynia Pogórze,Gdynia,ul. Porębskiego,54.56103779999999,18.4910868
+177,178,POMORSKIE,Pm.a09aN,PmGdySzaf09N,AM9 Gdynia Dąbrowa,Gdynia,ul. Szafranowa,54.4670953,18.4630852
+178,179,POMORSKIE,Pm.a10a,PmGdyWendy10,AM10 Gdynia Śródmieście,Gdynia,ul. Wendy,54.5248557,18.542013
+179,180,POMORSKIE,Pm05KARTw01m,PmKartWejher,WIOŚ Kartuzy,Kartuzy,ul. Wejhera,54.3343,18.1972
+180,181,POMORSKIE,Pm.AM12.a,PmKosTargo12,AM12 Kościerzyna Targowa,Kościerzyna,ul. Targowa,54.1203679,17.9757996
+181,182,POMORSKIE,Pm.Kwidz.Sport.m,PmKwiSportow,WIOŚ Kwidzyn - Sportowa,Kwidzyn,ul. Sportowa,53.71885349999999,18.9414386
+182,183,POMORSKIE,Pm08LEBAiEMEPa,PmLebaRabkaE,IMGW Łeba - Rąbka,Łeba,,54.760117,17.5563117
+183,184,POMORSKIE,Pm.AM16.a,PmLebMalcz16,AM16 Lębork Malczewskiego,Lębork,ul. Malczewskiego,54.5459018,17.7460107
+184,185,POMORSKIE,Pm.AM17.a,PmLinieKos17,AM17 Liniewko Kościerskie,Liniewko Kościerskie,,54.10262299999999,18.1816918
+185,186,POMORSKIE,Pm.AM15.a,PmMalMicki15,AM15 Malbork Mickiewicza,Malbork,ul. Mickiewicza,54.0339282,19.0323249
+186,187,POMORSKIE,Pm.63.wDSAa,PmSlupKniazi,AM11 Słupsk Kniaziewicza,Słupsk,ul. Kniaziewicza 30,54.4639835,17.0461968
+187,188,POMORSKIE,Pm.63.wDSPm,PmSlupOrzesz,WIOŚ Słupsk Orzeszkowej,Słupsk,ul. Orzeszkowej,54.4754085,17.0320408
+188,189,POMORSKIE,Pm.a06a,PmSopBitPl06,AM6 Sopot,Sopot,ul. Bitwy pod Płowcami,54.433575,18.5805851
+189,190,POMORSKIE,Pm.polpharma.01.a,PmStaGdaLubi,POLPHARMA Starogard Gdański - Lubichowska,Starogard Gdański,ul. Lubichowska,53.9509598,18.5147796
+190,191,POMORSKIE,Pm.a07a,PmTczeTarg07,AM7 Tczew,Tczew,ul. Targowa,54.0821651,18.7861401
+191,192,POMORSKIE,Pm.15.s129m,PmWejhPlWejh,WIOŚ Wejherowo - Jakuba Wejhera,Wejherowo,pl. Jakuba Wejhera 8,54.6013459,18.2395489
+192,193,POMORSKIE,Pm11WLADw07m,PmWladywHallera,WIOŚ Władysławowo - Hallera,Władysławowo,ul. Hallera,54.7940931,18.4058827
+193,194,ŚWIĘTOKRZYSKIE,SkBuskoWios2,SkBuskRokosz,"WIOŚ, Busko zdrój, ul. Rokosza",Busko-Zdrój,ul. Rokosza 1,50.4558522,20.7161368
+194,195,ŚWIĘTOKRZYSKIE,SkKielJagielWios,SkKielJagiel,"WIOS Kielce, ul. Jagiellońska",Kielce,ul. Jagiellońska 68,50.8723677,20.6052212
+195,196,ŚWIĘTOKRZYSKIE,SkKielKusoc,SkKielKusoci,"WIOŚ Kielce, ul. Kusocińskiego",Kielce,ul. Kusocińskiego 51,50.852067,20.6057875
+196,197,ŚWIĘTOKRZYSKIE,SkMalogCemen3,SkMalo11List,"Małogoszcz, ul. 11 Listopada",Małogoszcz,ul. 11 Listopada,50.80859,20.269197
+197,198,ŚWIĘTOKRZYSKIE,SkNowinyCemen2,SkNowiParkow,"Nowiny, ul. Parkowa",Nowiny,ul. Parkowa,50.8245564,20.5312382
+198,199,ŚWIĘTOKRZYSKIE,SkOzarowOsWz52,SkOzarOsWzgo,Ożarów Os. Wzgórze 52,Ożarów,os. Wzgórze 52,50.8872824,21.6595567
+199,200,ŚWIĘTOKRZYSKIE,SkPolanRuszcz,SkPolaRuszcz,"Połaniec, ul. Ruszczańska",Połaniec,ul. Ruszczańska 23,50.4299448,21.2779241
+200,201,ŚWIĘTOKRZYSKIE,SkStaracZlota2,SkStaraZlota,"WIOŚ, Starachowice, ul. Złota",Starachowice,ul. Złota,51.0499873,21.0850893
+201,202,ŚWIĘTOKRZYSKIE,SkSwKrzyzZM,SkSwietKrzyz,Stacja Monitoringu UH-P w Kielcach,Święty Krzyż,,50.8601134,21.0477071
+202,203,ŚWIĘTOKRZYSKIE,SkPolanTrzc,SkTrzciOsiek,Trzcianka,Trzcianka,Trzcianka 7,50.8438159,21.070638
+203,204,ŚLĄSKIE,SlBielbBiel_kossa,SlBielKossak,Bielsko B._kossak-WIOŚ,Bielsko-Biała,ul. Kossak-Szczuckiej,49.8139207,19.0251987
+204,205,ŚLĄSKIE,SlBielbBiel_stern,SlBielSterni,Bielsko-Biała_sternicza,Bielsko-Biała,ul. Sternicza 4,49.8076869,19.023212
+205,206,ŚLĄSKIE,SlCieszCies_13mic,SlCiesMickie,Cieszyn_mickiewi13-WIOŚ,Cieszyn,ul. Mickiewicza 13,49.7387828,18.6383981
+206,207,ŚLĄSKIE,SlCzerKopaln,SlCzerKopaln,Czerwionka Leszczyny Kopalniana,Czerwionka-Leszczyny,ul. Kopalniana,50.1630322,18.6588167
+207,208,ŚLĄSKIE,SlCzestCzes_arkr1,SlCzestoArmK,Częstochowa_armiikrajowej - WIOŚ,Częstochowa,ul. Armii Krajowej 2,50.8165324,19.1190237
+208,209,ŚLĄSKIE,SlCzestCzes_baczy,SlCzestoBacz,Częstochowa_bacz-WIOŚ,Częstochowa,ul. Baczyńskiego 2,50.835173,19.1272689
+209,210,ŚLĄSKIE,SlCzestCzes_zana6,SlCzestoZana,Czestochowa_zana-WIOŚ,Częstochowa,ul. Zana 6,50.8017911,19.1065626
+210,211,ŚLĄSKIE,SlDabroDabr_1000L,SlDabro1000L,DąbGór._1000-lecia-WIOŚ,Dąbrowa Górnicza,ul. 1000-lecia 25 a,50.32922929999999,19.2305355
+211,212,ŚLĄSKIE,SlGliwiGliw_mewy,SlGliwicMewy,Gliwice_mewy-WIOŚ,Gliwice,ul. Mewy 34,50.2790986,18.6552563
+212,213,ŚLĄSKIE,SlGodowWodz_wodzi,SlGodGliniki,Godów manualny - WIOŚ,Godów,ul. Gliniki,49.9337418,18.4792978
+213,214,ŚLĄSKIE,SlKatowKato_kossu,SlKatoKossut,Katowice_kossu-WIOŚ,Katowice,ul. Kossutha 6,50.2650298,18.9758351
+214,215,ŚLĄSKIE,SlKatowKato_aleja,SlKatoPlebA4,Katowice_komunikacyjna-WIOŚ,Katowice,al. Górnośląska,50.2447558,19.0362121
+215,216,ŚLĄSKIE,SlKnuroKnu1_gliwi,SlKnurJedNar,Knurów _jedności narod. - WIOŚ,Knurów,ul. Jedności Narodowej 5,50.2330663,18.6567292
+216,217,ŚLĄSKIE,SlLubliLubl_piask,SlLublPiasko,Lubliniec_piaskowa,Lubliniec,ul. Piaskowa 56,50.6578394,18.6963936
+217,218,ŚLĄSKIE,SlMyszkMysz_myszk,SlMyszMiedzi,Myszków_miedziana,Myszków,ul. Miedziana 3,50.5796956,19.3273438
+218,219,ŚLĄSKIE,SlPszczPszc_boged,SlPszczBoged,Pszczyna_bogedaina- WIOŚ,Pszczyna,ul. Bogedaina,49.9729301,18.947541
+219,220,ŚLĄSKIE,SlRybniRybn_borki,SlRybniBorki,Rybnik_borki-WIOŚ,Rybnik,ul. Borki 37 d,50.110822,18.5162379
+220,221,ŚLĄSKIE,SlSosnoSosn_lubel,SlSosnoLubel,Sosnowiec_lubelska -WIOŚ,Sosnowiec,ul. Lubelska 51,50.286671,19.1848019
+221,222,ŚLĄSKIE,SlTarnoTarn_litew,SlTarnoLitew,Tarnowskie Góry_litewska-WIOŚ,Tarnowskie Góry,ul. Litewska,50.4467029,18.8273944
+222,223,ŚLĄSKIE,SlTychyTych_tolst,SlTychyTolst,Tychy_tołstoja-WIOŚ,Tychy,ul. Tołstoja 1,50.1006335,18.9915432
+223,224,ŚLĄSKIE,SlUstroCies_sana7,SlUstronSana,Ustroń_sanatoryjna 7,Ustroń,ul. Sanatoryjna 7,49.7212767,18.8249537
+224,225,ŚLĄSKIE,SlWodziWodz_galcz,SlWodzGalczy,Wodzisław_Gałczyńskiego-WIOŚ,Wodzisław Śląski,ul. Gałczyńskiego 1,50.007486,18.456487
+225,226,ŚLĄSKIE,SlZabrzZabr_sklod,SlZabSkloCur,Zabrze_skłod-WIOŚ,Zabrze,ul. M. Skłodowskiej-Curie 34,50.3134312,18.78175
+226,227,ŚLĄSKIE,SlZawieZawi_zawie,SlZawSkloCur,Zawiercie_skłod-curie- WIOŚ,Zawiercie,ul. Skłodowskiej-Curie 16,50.4796025,19.4346214
+227,228,ŚLĄSKIE,SlZlotyJano_lesni,SlZlotPotLes,Złoty Potok gm. Janów (automat),Złoty Potok,ul. Leśniczówka Kamienna Góra,50.711861,19.4585094
+228,229,ŚLĄSKIE,SlZoryzZory_sikor,SlZorySikors,Żory_os.Sikorskiego-WIOŚ,Żory,ul. Sikorskiego 52,50.02897859999999,18.6907804
+229,230,ŚLĄSKIE,SlZywieZywi_koper,SlZywieKoper,Żywiec_kopernika-WIOŚ,Żywiec,ul. Kopernika 84,49.67049009999999,19.2384583
+230,231,ŚLĄSKIE,SlZywieZywi_slowa,SlZywieSlowa,Żywiec-słowackiego-WIOŚ,Żywiec,ul. Słowackiego 2,49.6883444,19.2052701
+231,232,WARMIŃSKO-MAZURSKIE,WmElblagWIOS_Bazynsk,WmElbBazynsk,WIOŚ Elbląg ul. Bażyńskiego,Elbląg,ul. Bażyńskiego 6,54.16812179999999,19.4106429
+232,233,WARMIŃSKO-MAZURSKIE,WmGoldapWIOS_Jacwies,WmGoldJacwie,WIOŚ Gołdap ul. Jaćwieska,Gołdap,ul. Jaćwieska 15,54.3057287,22.3064343
+233,234,WARMIŃSKO-MAZURSKIE,WmIlawaAnd,WmIlawAnders,WIOŚ Iława ul.Andersa,Iława,Andersa 8a,53.588294,19.5645311
+234,235,WARMIŃSKO-MAZURSKIE,WmMragowWIOS_Parkowa,WmMragParkow,WIOŚ Mrągowo ul. Parkowa,Mrągowo,ul. Parkowa,53.86603419999999,21.2939302
+235,236,WARMIŃSKO-MAZURSKIE,WmNidzicaWIOS_Traugut,WmNiTraugutt,WIOŚ Nidzica ul.Traugutta,Nidzica,ul. Traugutta,53.36168,20.42009
+236,237,WARMIŃSKO-MAZURSKIE,WmOlsztyWIOS_Puszkin,WmOlsPuszkin,WIOŚ Olsztyn ul. Puszkina,Olsztyn,ul. Puszkina 16,53.7894476,20.4857533
+237,238,WARMIŃSKO-MAZURSKIE,WmOstrodWIOS_Chrobre,WmOstrChrobr,WIOŚ Ostróda ul. Chrobrego,Ostróda,ul. Chrobrego 3,53.69268,19.969364
+238,239,WARMIŃSKO-MAZURSKIE,WmPuszcz_IOS_Borecka,WmPuszczaBor,KMŚ Puszcza Borecka,,Diabla Góra,54.1236641,22.0387785
+239,240,WIELKOPOLSKIE,WpWKP011/10,WpBoroDrapal,WKPBorowiec,Borówiec,ul. Drapałka 4,52.27689609999999,17.0732431
+240,241,WIELKOPOLSKIE,WpGnieznoPM10/11,WpGniePaczko,"Gniezno, ul. Paczkowskiego",Gniezno,ul. Paczkowskiego,52.5398136,17.6116448
+241,242,WIELKOPOLSKIE,WpWKPKalisz007/10,WpKaliSawick,WKPKalisz,Kalisz,ul. Hanki Sawickiej,51.76727990000001,18.0853462
+242,243,WIELKOPOLSKIE,WpKonin311009D009102,WpKoniWyszyn,"Konin, ul. Wyszyńskiego 3a",Konin,ul. Wyszyńskiego 3,52.2266117,18.2654507
+243,244,WIELKOPOLSKIE,WpLesznoPM10/11,WpLeszKiepur,WpLesznoPM10/11,Leszno,ul. Kiepury,51.8370785,16.6027477
+244,245,WIELKOPOLSKIE,WpNowyTomyslPM10/11,WpNoTomSzpit,WpNowyTomyslPM10/11,Nowy Tomyśl,ul. Szpitalna,52.3168362,16.1425649
+245,246,WIELKOPOLSKIE,WpOstrowWlkpPM10,WpOstWieWyso,"Ostrow Wlkp., ul. Wysocka 57",Ostrów Wielkopolski,ul. Wysocka 57,51.637352,17.822618
+246,247,WIELKOPOLSKIE,WpWKP004,WpPiaskiKrzy,WKPKrzyzowka,Krzyżówka,,52.5056303,17.7762461
+247,248,WIELKOPOLSKIE,WpPila5710111,WpPilaKusoci,"Pila, ul. Kusocinkiego",Piła,ul. Kusocińskiego,53.1557803,16.7571432
+248,249,WIELKOPOLSKIE,WpPleszewPM10/14,WpPleszAlMic,WpPleszew,Pleszew,al. Mickiewicza,51.8855467,17.7884122
+249,250,WIELKOPOLSKIE,WpPoznanPOSIRPM10/11,WpPoznChwial,WpPoznanPOSIRPM10/11,Poznań,ul. Chwiałkowskiego,52.3953062,16.9212966
+250,251,WIELKOPOLSKIE,WpWKP002,WpPoznDabrow,WKPPoznan 2,Poznań,ul. Dąbrowskiego 169,52.4212909,16.878704
+251,252,WIELKOPOLSKIE,WpWKP001,WpPoznPolank,WKPPoznan1,Poznań,ul. Polanki,52.3996248,16.9581835
+252,253,WIELKOPOLSKIE,WpPoznanSzymanowskiego17,WpPoznSzyman,"Poznan, ul. Szymanowskiego 17",Poznań,ul. Szymanowskiego 17,52.4594402,16.9056839
+253,254,WIELKOPOLSKIE,WpTarnowoPodgornePM10/10,WpTarPodZach,WpTarnowoPodgornePM10/10,Tarnowo Podgórne,ul. Zachodnia,52.4647295,16.6457141
+254,255,WIELKOPOLSKIE,WpWagrowiecPM10/10,WpWagrowLipo,WpWagrowiecPM10/10,Wągrowiec,,52.80848,17.19966
+255,256,ZACHODNIOPOMORSKIE,ZpKoszalin005,ZpKoszArKraj,Koszalin_ArmiiKrajowej,Koszalin,ul. Armii Krajowej,54.1918246,16.1717744
+256,257,ZACHODNIOPOMORSKIE,ZpKoszalin006,ZpKoszSpasow,Koszalin_Spasowskiego,Koszalin,ul. Spasowskiego 2f,54.2066618,16.1928801
+257,258,ZACHODNIOPOMORSKIE,ZpMysMysliborz007,ZpMyslZaBram,Myślibórz_ZaBramką,Myślibórz,ul. Za Bramką 8,52.926752,14.8621289
+258,259,ZACHODNIOPOMORSKIE,ZpSzczecin001,ZpSzczAndr01,Szczecin_Andrzejewskiego,Szczecin,ul. Andrzejewskiego 23,53.3814,14.663314
+259,260,ZACHODNIOPOMORSKIE,ZpSzcSzczecinek008,ZpSzczec1Maj,Szczecinek_1Maja,Szczecinek,ul. 1 Maja 22,53.7114656,16.6926717
+260,261,ZACHODNIOPOMORSKIE,ZpSzcSzczecinek010,ZpSzczecPrze,Szczecinek_Przemysłowa,Szczecinek,ul. Przemysłowa,53.69837130000001,16.7042793
+261,262,ZACHODNIOPOMORSKIE,ZpSzczecin004,ZpSzczLacz04,Szczecin_Łączna,Szczecin,ul. Łączna,53.471791,14.558695
+262,263,ZACHODNIOPOMORSKIE,ZpSzczecin002,ZpSzczPils02,Szczecin_Piłsudskiego,Szczecin,ul. Piłsudskiego 1,53.43232399999999,14.553398
+263,264,ZACHODNIOPOMORSKIE,ZpGryfWiduchowa003,ZpWiduBulRyb,Widuchowa,Widuchowa,ul. Bulwary Rybackie 1,53.12204149999999,14.3821142
