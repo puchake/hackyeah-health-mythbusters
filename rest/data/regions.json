@@ -1,0 +1,1572 @@
+[
+    {
+        "latitude": 52.8153832,
+        "longitude": 18.7182522,
+        "name": "Powiat aleksandrowski"
+    },
+    {
+        "latitude": 53.84291899999999,
+        "longitude": 23.2073355,
+        "name": "Powiat augustowski"
+    },
+    {
+        "latitude": 54.26014809999999,
+        "longitude": 20.7964826,
+        "name": "Powiat bartoszycki"
+    },
+    {
+        "latitude": 51.3657008,
+        "longitude": 19.2352119,
+        "name": "Powiat be\u0142chatowski"
+    },
+    {
+        "latitude": 50.4140948,
+        "longitude": 19.1132834,
+        "name": "Powiat b\u0119dzi\u0144ski"
+    },
+    {
+        "latitude": 52.0331887,
+        "longitude": 23.1298103,
+        "name": "Powiat bialski"
+    },
+    {
+        "latitude": 51.6240912,
+        "longitude": 20.9786982,
+        "name": "Powiat bia\u0142obrzeski"
+    },
+    {
+        "latitude": 53.9938442,
+        "longitude": 16.0579779,
+        "name": "Powiat bia\u0142ogardzki"
+    },
+    {
+        "latitude": 53.0438238,
+        "longitude": 23.3148969,
+        "name": "Powiat bia\u0142ostocki"
+    },
+    {
+        "latitude": 49.9080843,
+        "longitude": 19.076211,
+        "name": "Powiat bielski (wojew\u00f3dztwo \u015bl\u0105skie)"
+    },
+    {
+        "latitude": 52.762826,
+        "longitude": 23.1381261,
+        "name": "Powiat bielski (wojew\u00f3dztwo podlaskie)"
+    },
+    {
+        "latitude": 50.1078748,
+        "longitude": 19.1532754,
+        "name": "Powiat bieru\u0144sko-l\u0119dzi\u0144ski"
+    },
+    {
+        "latitude": 49.30981389999999,
+        "longitude": 22.6000231,
+        "name": "Powiat bieszczadzki"
+    },
+    {
+        "latitude": 50.4805711,
+        "longitude": 22.7841244,
+        "name": "Powiat bi\u0142gorajski"
+    },
+    {
+        "latitude": 49.899654,
+        "longitude": 20.4481946,
+        "name": "Powiat boche\u0144ski"
+    },
+    {
+        "latitude": 51.3623002,
+        "longitude": 15.5803488,
+        "name": "Powiat boles\u0142awiecki"
+    },
+    {
+        "latitude": 54.3159867,
+        "longitude": 19.9612973,
+        "name": "Powiat braniewski"
+    },
+    {
+        "latitude": 53.2107481,
+        "longitude": 19.5570294,
+        "name": "Powiat brodnicki"
+    },
+    {
+        "latitude": 49.9670967,
+        "longitude": 20.6621498,
+        "name": "Powiat brzeski (wojew\u00f3dztwo ma\u0142opolskie)"
+    },
+    {
+        "latitude": 50.8245005,
+        "longitude": 17.5095994,
+        "name": "Powiat brzeski (wojew\u00f3dztwo opolskie)"
+    },
+    {
+        "latitude": 51.8403972,
+        "longitude": 19.7813314,
+        "name": "Powiat brzezi\u0144ski"
+    },
+    {
+        "latitude": 49.69051320000001,
+        "longitude": 21.9880699,
+        "name": "Powiat brzozowski"
+    },
+    {
+        "latitude": 50.4263927,
+        "longitude": 20.8517485,
+        "name": "Powiat buski"
+    },
+    {
+        "latitude": 53.118252,
+        "longitude": 18.0749923,
+        "name": "Powiat bydgoski"
+    },
+    {
+        "latitude": 54.1454767,
+        "longitude": 17.3525512,
+        "name": "Powiat bytowski"
+    },
+    {
+        "latitude": 53.2951708,
+        "longitude": 18.5054863,
+        "name": "Powiat che\u0142mi\u0144ski"
+    },
+    {
+        "latitude": 51.1368642,
+        "longitude": 23.4784508,
+        "name": "Powiat che\u0142mski"
+    },
+    {
+        "latitude": 53.0000554,
+        "longitude": 16.9526472,
+        "name": "Powiat chodzieski"
+    },
+    {
+        "latitude": 53.7745398,
+        "longitude": 17.7291611,
+        "name": "Powiat chojnicki"
+    },
+    {
+        "latitude": 53.1388994,
+        "longitude": 15.6496799,
+        "name": "Powiat choszcze\u0144ski"
+    },
+    {
+        "latitude": 50.09679939999999,
+        "longitude": 19.4651009,
+        "name": "Powiat chrzanowski"
+    },
+    {
+        "latitude": 52.8568747,
+        "longitude": 20.5532001,
+        "name": "Powiat ciechanowski"
+    },
+    {
+        "latitude": 49.73742009999999,
+        "longitude": 18.8311872,
+        "name": "Powiat cieszy\u0144ski"
+    },
+    {
+        "latitude": 52.9079232,
+        "longitude": 16.3653689,
+        "name": "Powiat czarnkowsko-trzcianecki"
+    },
+    {
+        "latitude": 50.798905,
+        "longitude": 19.1267895,
+        "name": "Powiat cz\u0119stochowski"
+    },
+    {
+        "latitude": 53.7680573,
+        "longitude": 17.1749251,
+        "name": "Powiat cz\u0142uchowski"
+    },
+    {
+        "latitude": 50.232478,
+        "longitude": 20.9656068,
+        "name": "Powiat d\u0105browski"
+    },
+    {
+        "latitude": 49.9953359,
+        "longitude": 21.3075494,
+        "name": "Powiat d\u0119bicki"
+    },
+    {
+        "latitude": 53.4667222,
+        "longitude": 15.8425875,
+        "name": "Powiat drawski"
+    },
+    {
+        "latitude": 53.3050749,
+        "longitude": 20.050474,
+        "name": "Powiat dzia\u0142dowski"
+    },
+    {
+        "latitude": 50.7717947,
+        "longitude": 16.7233293,
+        "name": "Powiat dzier\u017coniowski"
+    },
+    {
+        "latitude": 54.01609000000001,
+        "longitude": 19.5895991,
+        "name": "Powiat elbl\u0105ski"
+    },
+    {
+        "latitude": 53.7888026,
+        "longitude": 22.3323582,
+        "name": "Powiat e\u0142cki"
+    },
+    {
+        "latitude": 51.8394562,
+        "longitude": 21.7058361,
+        "name": "Powiat garwoli\u0144ski"
+    },
+    {
+        "latitude": 54.18349300000001,
+        "longitude": 18.5707092,
+        "name": "Powiat gda\u0144ski"
+    },
+    {
+        "latitude": 53.9662624,
+        "longitude": 21.8876805,
+        "name": "Powiat gi\u017cycki"
+    },
+    {
+        "latitude": 50.29449229999999,
+        "longitude": 18.6713802,
+        "name": "Powiat gliwicki"
+    },
+    {
+        "latitude": 51.6574339,
+        "longitude": 16.096829,
+        "name": "Powiat g\u0142ogowski"
+    },
+    {
+        "latitude": 50.1746942,
+        "longitude": 17.8417937,
+        "name": "Powiat g\u0142ubczycki"
+    },
+    {
+        "latitude": 52.5014671,
+        "longitude": 17.628832,
+        "name": "Powiat gnie\u017anie\u0144ski"
+    },
+    {
+        "latitude": 53.5954578,
+        "longitude": 14.8616313,
+        "name": "Powiat goleniowski"
+    },
+    {
+        "latitude": 53.1140073,
+        "longitude": 19.0683907,
+        "name": "Powiat golubsko-dobrzy\u0144ski"
+    },
+    {
+        "latitude": 54.2564043,
+        "longitude": 22.2855339,
+        "name": "Powiat go\u0142dapski"
+    },
+    {
+        "latitude": 49.6015013,
+        "longitude": 21.1285391,
+        "name": "Powiat gorlicki"
+    },
+    {
+        "latitude": 52.72569850000001,
+        "longitude": 15.2018639,
+        "name": "Powiat gorzowski"
+    },
+    {
+        "latitude": 52.4352712,
+        "longitude": 19.4024278,
+        "name": "Powiat gostyni\u0144ski"
+    },
+    {
+        "latitude": 51.85037089999999,
+        "longitude": 17.0131816,
+        "name": "Powiat gosty\u0144ski"
+    },
+    {
+        "latitude": 51.663189,
+        "longitude": 16.5125886,
+        "name": "Powiat g\u00f3rowski"
+    },
+    {
+        "latitude": 53.58260259999999,
+        "longitude": 22.4521604,
+        "name": "Powiat grajewski"
+    },
+    {
+        "latitude": 52.0796591,
+        "longitude": 20.5429688,
+        "name": "Powiat grodziski (wojew\u00f3dztwo mazowieckie)"
+    },
+    {
+        "latitude": 52.210718,
+        "longitude": 16.332533,
+        "name": "Powiat grodziski (wojew\u00f3dztwo wielkopolskie)"
+    },
+    {
+        "latitude": 51.8226058,
+        "longitude": 20.8597574,
+        "name": "Powiat gr\u00f3jecki"
+    },
+    {
+        "latitude": 53.46842880000001,
+        "longitude": 18.7487561,
+        "name": "Powiat grudzi\u0105dzki"
+    },
+    {
+        "latitude": 53.9445019,
+        "longitude": 15.2568565,
+        "name": "Powiat gryficki"
+    },
+    {
+        "latitude": 52.9356926,
+        "longitude": 14.5010217,
+        "name": "Powiat gryfi\u0144ski"
+    },
+    {
+        "latitude": 52.7104134,
+        "longitude": 23.6072363,
+        "name": "Powiat hajnowski"
+    },
+    {
+        "latitude": 50.7015585,
+        "longitude": 23.8116511,
+        "name": "Powiat hrubieszowski"
+    },
+    {
+        "latitude": 53.6522976,
+        "longitude": 19.6031833,
+        "name": "Powiat i\u0142awski"
+    },
+    {
+        "latitude": 52.7947626,
+        "longitude": 18.2957325,
+        "name": "Powiat inowroc\u0142awski"
+    },
+    {
+        "latitude": 50.7250326,
+        "longitude": 22.4424755,
+        "name": "Powiat janowski"
+    },
+    {
+        "latitude": 51.9558633,
+        "longitude": 17.4699972,
+        "name": "Powiat jaroci\u0144ski"
+    },
+    {
+        "latitude": 49.9657776,
+        "longitude": 22.7535729,
+        "name": "Powiat jaros\u0142awski"
+    },
+    {
+        "latitude": 49.706141,
+        "longitude": 21.4728496,
+        "name": "Powiat jasielski"
+    },
+    {
+        "latitude": 51.0283765,
+        "longitude": 16.1314916,
+        "name": "Powiat jaworski"
+    },
+    {
+        "latitude": 50.86655469999999,
+        "longitude": 15.6823021,
+        "name": "Powiat jeleniog\u00f3rski"
+    },
+    {
+        "latitude": 50.65754,
+        "longitude": 20.3008653,
+        "name": "Powiat j\u0119drzejowski"
+    },
+    {
+        "latitude": 51.7432179,
+        "longitude": 18.0652645,
+        "name": "Powiat kaliski"
+    },
+    {
+        "latitude": 50.7915164,
+        "longitude": 15.9921471,
+        "name": "Powiat kamiennog\u00f3rski"
+    },
+    {
+        "latitude": 53.9245263,
+        "longitude": 14.7149859,
+        "name": "Powiat kamie\u0144ski"
+    },
+    {
+        "latitude": 54.3451554,
+        "longitude": 18.1175348,
+        "name": "Powiat kartuski"
+    },
+    {
+        "latitude": 50.2940577,
+        "longitude": 20.519199,
+        "name": "Powiat kazimierski"
+    },
+    {
+        "latitude": 50.292428,
+        "longitude": 18.1705709,
+        "name": "Powiat k\u0119dzierzy\u0144sko-kozielski"
+    },
+    {
+        "latitude": 51.27556269999999,
+        "longitude": 17.9321449,
+        "name": "Powiat k\u0119pi\u0144ski"
+    },
+    {
+        "latitude": 54.1661097,
+        "longitude": 21.3114621,
+        "name": "Powiat k\u0119trzy\u0144ski"
+    },
+    {
+        "latitude": 50.8660773,
+        "longitude": 20.6285676,
+        "name": "Powiat kielecki"
+    },
+    {
+        "latitude": 50.9857086,
+        "longitude": 18.1251781,
+        "name": "Powiat kluczborski"
+    },
+    {
+        "latitude": 50.9492568,
+        "longitude": 18.8752116,
+        "name": "Powiat k\u0142obucki"
+    },
+    {
+        "latitude": 50.4114042,
+        "longitude": 16.5655666,
+        "name": "Powiat k\u0142odzki"
+    },
+    {
+        "latitude": 50.323594,
+        "longitude": 21.8378567,
+        "name": "Powiat kolbuszowski"
+    },
+    {
+        "latitude": 53.39809090000001,
+        "longitude": 21.9991336,
+        "name": "Powiat kolne\u0144ski"
+    },
+    {
+        "latitude": 52.2795474,
+        "longitude": 18.7485613,
+        "name": "Powiat kolski"
+    },
+    {
+        "latitude": 54.0776374,
+        "longitude": 15.60201,
+        "name": "Powiat ko\u0142obrzeski"
+    },
+    {
+        "latitude": 51.1305948,
+        "longitude": 20.3261701,
+        "name": "Powiat konecki"
+    },
+    {
+        "latitude": 52.2167513,
+        "longitude": 18.2532296,
+        "name": "Powiat koni\u0144ski"
+    },
+    {
+        "latitude": 54.1917007,
+        "longitude": 16.2465435,
+        "name": "Powiat koszali\u0144ski"
+    },
+    {
+        "latitude": 52.0622096,
+        "longitude": 16.7580375,
+        "name": "Powiat ko\u015bcia\u0144ski"
+    },
+    {
+        "latitude": 53.999309,
+        "longitude": 18.0203275,
+        "name": "Powiat ko\u015bcierski"
+    },
+    {
+        "latitude": 51.6329647,
+        "longitude": 21.3990659,
+        "name": "Powiat kozienicki"
+    },
+    {
+        "latitude": 50.06465009999999,
+        "longitude": 19.9449799,
+        "name": "Powiat krakowski"
+    },
+    {
+        "latitude": 50.4776737,
+        "longitude": 17.9467122,
+        "name": "Powiat krapkowicki"
+    },
+    {
+        "latitude": 50.9509066,
+        "longitude": 23.0514042,
+        "name": "Powiat krasnostawski"
+    },
+    {
+        "latitude": 50.8707311,
+        "longitude": 22.1526153,
+        "name": "Powiat kra\u015bnicki"
+    },
+    {
+        "latitude": 49.7051244,
+        "longitude": 21.7519259,
+        "name": "Powiat kro\u015bnie\u0144ski (wojew\u00f3dztwo podkarpackie)"
+    },
+    {
+        "latitude": 52.0001091,
+        "longitude": 15.0030846,
+        "name": "Powiat kro\u015bnie\u0144ski (wojew\u00f3dztwo lubuskie)"
+    },
+    {
+        "latitude": 51.6999106,
+        "longitude": 17.4343646,
+        "name": "Powiat krotoszy\u0144ski"
+    },
+    {
+        "latitude": 52.257219,
+        "longitude": 19.4090901,
+        "name": "Powiat kutnowski"
+    },
+    {
+        "latitude": 53.7069237,
+        "longitude": 19.0069879,
+        "name": "Powiat kwidzy\u0144ski"
+    },
+    {
+        "latitude": 52.4320224,
+        "longitude": 20.9228345,
+        "name": "Powiat legionowski"
+    },
+    {
+        "latitude": 51.20676839999999,
+        "longitude": 16.1593249,
+        "name": "Powiat legnicki"
+    },
+    {
+        "latitude": 49.356082,
+        "longitude": 22.3738961,
+        "name": "Powiat leski"
+    },
+    {
+        "latitude": 51.8389547,
+        "longitude": 16.5720769,
+        "name": "Powiat leszczy\u0144ski"
+    },
+    {
+        "latitude": 50.2819824,
+        "longitude": 22.4790327,
+        "name": "Powiat le\u017cajski"
+    },
+    {
+        "latitude": 54.68895699999999,
+        "longitude": 17.6445007,
+        "name": "Powiat l\u0119borski"
+    },
+    {
+        "latitude": 54.146188,
+        "longitude": 20.4128114,
+        "name": "Powiat lidzbarski"
+    },
+    {
+        "latitude": 49.6747667,
+        "longitude": 20.2788928,
+        "name": "Powiat limanowski"
+    },
+    {
+        "latitude": 52.8135509,
+        "longitude": 19.2657878,
+        "name": "Powiat lipnowski"
+    },
+    {
+        "latitude": 51.16061639999999,
+        "longitude": 21.5681301,
+        "name": "Powiat lipski"
+    },
+    {
+        "latitude": 50.260564,
+        "longitude": 23.2122604,
+        "name": "Powiat lubaczowski"
+    },
+    {
+        "latitude": 51.0591161,
+        "longitude": 15.2855623,
+        "name": "Powiat luba\u0144ski"
+    },
+    {
+        "latitude": 51.4970599,
+        "longitude": 22.5409476,
+        "name": "Powiat lubartowski"
+    },
+    {
+        "latitude": 51.2474183,
+        "longitude": 22.5734333,
+        "name": "Powiat lubelski"
+    },
+    {
+        "latitude": 51.4411622,
+        "longitude": 16.2519212,
+        "name": "Powiat lubi\u0144ski"
+    },
+    {
+        "latitude": 50.6981811,
+        "longitude": 18.8295757,
+        "name": "Powiat lubliniecki"
+    },
+    {
+        "latitude": 51.0283944,
+        "longitude": 15.5136944,
+        "name": "Powiat lw\u00f3wecki"
+    },
+    {
+        "latitude": 50.15712,
+        "longitude": 22.2392796,
+        "name": "Powiat \u0142a\u0144cucki"
+    },
+    {
+        "latitude": 51.54686969999999,
+        "longitude": 19.066394,
+        "name": "Powiat \u0142aski"
+    },
+    {
+        "latitude": 52.1205089,
+        "longitude": 19.1748072,
+        "name": "Powiat \u0142\u0119czycki"
+    },
+    {
+        "latitude": 51.32394559999999,
+        "longitude": 22.954777,
+        "name": "Powiat \u0142\u0119czy\u0144ski"
+    },
+    {
+        "latitude": 53.64781869999999,
+        "longitude": 15.4845879,
+        "name": "Powiat \u0142obeski"
+    },
+    {
+        "latitude": 53.1734141,
+        "longitude": 22.047289,
+        "name": "Powiat \u0142om\u017cy\u0144ski"
+    },
+    {
+        "latitude": 52.2287911,
+        "longitude": 22.8868723,
+        "name": "Powiat \u0142osicki"
+    },
+    {
+        "latitude": 52.0953911,
+        "longitude": 19.8347615,
+        "name": "Powiat \u0142owicki"
+    },
+    {
+        "latitude": 51.6705147,
+        "longitude": 19.6225076,
+        "name": "Powiat \u0142\u00f3dzki wschodni"
+    },
+    {
+        "latitude": 51.8950983,
+        "longitude": 22.1028723,
+        "name": "Powiat \u0142ukowski"
+    },
+    {
+        "latitude": 52.9226319,
+        "longitude": 21.172904,
+        "name": "Powiat makowski"
+    },
+    {
+        "latitude": 54.0860433,
+        "longitude": 19.0336719,
+        "name": "Powiat malborski"
+    },
+    {
+        "latitude": 50.4018897,
+        "longitude": 20.0437979,
+        "name": "Powiat miechowski"
+    },
+    {
+        "latitude": 50.316502,
+        "longitude": 21.4302478,
+        "name": "Powiat mielecki"
+    },
+    {
+        "latitude": 52.6004652,
+        "longitude": 16.0491591,
+        "name": "Powiat mi\u0119dzychodzki"
+    },
+    {
+        "latitude": 52.4874029,
+        "longitude": 15.595523,
+        "name": "Powiat mi\u0119dzyrzecki"
+    },
+    {
+        "latitude": 50.1656588,
+        "longitude": 18.8118364,
+        "name": "Powiat miko\u0142owski"
+    },
+    {
+        "latitude": 51.541736,
+        "longitude": 17.332622,
+        "name": "Powiat milicki"
+    },
+    {
+        "latitude": 52.19326359999999,
+        "longitude": 21.7152483,
+        "name": "Powiat mi\u0144ski"
+    },
+    {
+        "latitude": 53.0587382,
+        "longitude": 20.4275093,
+        "name": "Powiat m\u0142awski"
+    },
+    {
+        "latitude": 52.6295025,
+        "longitude": 18.0818447,
+        "name": "Powiat mogile\u0144ski"
+    },
+    {
+        "latitude": 53.3777392,
+        "longitude": 22.7938814,
+        "name": "Powiat moniecki"
+    },
+    {
+        "latitude": 53.8019109,
+        "longitude": 21.3077251,
+        "name": "Powiat mr\u0105gowski"
+    },
+    {
+        "latitude": 50.6199111,
+        "longitude": 19.2916265,
+        "name": "Powiat myszkowski"
+    },
+    {
+        "latitude": 49.8112602,
+        "longitude": 19.9949387,
+        "name": "Powiat my\u015blenicki"
+    },
+    {
+        "latitude": 52.85704399999999,
+        "longitude": 14.7780054,
+        "name": "Powiat my\u015bliborski"
+    },
+    {
+        "latitude": 53.0886873,
+        "longitude": 17.5465361,
+        "name": "Powiat nakielski"
+    },
+    {
+        "latitude": 51.0408166,
+        "longitude": 17.7773502,
+        "name": "Powiat namys\u0142owski"
+    },
+    {
+        "latitude": 53.3178578,
+        "longitude": 20.4868715,
+        "name": "Powiat nidzicki"
+    },
+    {
+        "latitude": 50.4776809,
+        "longitude": 22.3713566,
+        "name": "Powiat ni\u017ca\u0144ski"
+    },
+    {
+        "latitude": 54.2838325,
+        "longitude": 19.0704529,
+        "name": "Powiat nowodworski (wojew\u00f3dztwo pomorskie)"
+    },
+    {
+        "latitude": 52.4769443,
+        "longitude": 20.6780861,
+        "name": "Powiat nowodworski (wojew\u00f3dztwo mazowieckie)"
+    },
+    {
+        "latitude": 53.4165569,
+        "longitude": 19.5339357,
+        "name": "Powiat nowomiejski"
+    },
+    {
+        "latitude": 49.6084971,
+        "longitude": 20.6960386,
+        "name": "Powiat nowos\u0105decki"
+    },
+    {
+        "latitude": 51.7780803,
+        "longitude": 15.6942659,
+        "name": "Powiat nowosolski"
+    },
+    {
+        "latitude": 49.4706746,
+        "longitude": 19.9993836,
+        "name": "Powiat nowotarski"
+    },
+    {
+        "latitude": 52.3247356,
+        "longitude": 16.1432292,
+        "name": "Powiat nowotomyski"
+    },
+    {
+        "latitude": 50.4653195,
+        "longitude": 17.3424977,
+        "name": "Powiat nyski"
+    },
+    {
+        "latitude": 52.73983459999999,
+        "longitude": 16.9207647,
+        "name": "Powiat obornicki"
+    },
+    {
+        "latitude": 54.04889069999999,
+        "longitude": 22.4074038,
+        "name": "Powiat olecki"
+    },
+    {
+        "latitude": 50.9294087,
+        "longitude": 18.4731614,
+        "name": "Powiat oleski"
+    },
+    {
+        "latitude": 51.251709,
+        "longitude": 17.530923,
+        "name": "Powiat ole\u015bnicki"
+    },
+    {
+        "latitude": 50.3108759,
+        "longitude": 19.5872964,
+        "name": "Powiat olkuski"
+    },
+    {
+        "latitude": 53.783365,
+        "longitude": 20.4735725,
+        "name": "Powiat olszty\u0144ski"
+    },
+    {
+        "latitude": 51.0163482,
+        "longitude": 17.3794513,
+        "name": "Powiat o\u0142awski"
+    },
+    {
+        "latitude": 50.7596348,
+        "longitude": 21.3816143,
+        "name": "Powiat opatowski"
+    },
+    {
+        "latitude": 51.4037758,
+        "longitude": 20.2645148,
+        "name": "Powiat opoczy\u0144ski"
+    },
+    {
+        "latitude": 51.1669425,
+        "longitude": 21.9855229,
+        "name": "Powiat opolski (wojew\u00f3dztwo lubelskie)"
+    },
+    {
+        "latitude": 50.6627543,
+        "longitude": 17.9265186,
+        "name": "Powiat opolski (wojew\u00f3dztwo opolskie)"
+    },
+    {
+        "latitude": 53.0836961,
+        "longitude": 21.573285,
+        "name": "Powiat ostro\u0142\u0119cki"
+    },
+    {
+        "latitude": 50.94659110000001,
+        "longitude": 21.4297744,
+        "name": "Powiat ostrowiecki"
+    },
+    {
+        "latitude": 51.6452962,
+        "longitude": 17.7880123,
+        "name": "Powiat ostrowski (wojew\u00f3dztwo wielkopolskie)"
+    },
+    {
+        "latitude": 52.7570729,
+        "longitude": 22.0412064,
+        "name": "Powiat ostrowski (wojew\u00f3dztwo mazowieckie)"
+    },
+    {
+        "latitude": 53.7688249,
+        "longitude": 19.9764104,
+        "name": "Powiat ostr\u00f3dzki"
+    },
+    {
+        "latitude": 51.4509461,
+        "longitude": 17.9191483,
+        "name": "Powiat ostrzeszowski"
+    },
+    {
+        "latitude": 50.0025789,
+        "longitude": 19.2699881,
+        "name": "Powiat o\u015bwi\u0119cimski"
+    },
+    {
+        "latitude": 52.085743,
+        "longitude": 21.3466091,
+        "name": "Powiat otwocki"
+    },
+    {
+        "latitude": 51.6827392,
+        "longitude": 19.2965652,
+        "name": "Powiat pabianicki"
+    },
+    {
+        "latitude": 51.18164669999999,
+        "longitude": 19.0385025,
+        "name": "Powiat paj\u0119cza\u0144ski"
+    },
+    {
+        "latitude": 51.5741699,
+        "longitude": 23.0312051,
+        "name": "Powiat parczewski"
+    },
+    {
+        "latitude": 51.990602,
+        "longitude": 21.0267424,
+        "name": "Powiat piaseczy\u0144ski"
+    },
+    {
+        "latitude": 53.1620617,
+        "longitude": 17.055811,
+        "name": "Powiat pilski"
+    },
+    {
+        "latitude": 50.4907423,
+        "longitude": 20.5044784,
+        "name": "Powiat pi\u0144czowski"
+    },
+    {
+        "latitude": 51.4035647,
+        "longitude": 19.7111108,
+        "name": "Powiat piotrkowski"
+    },
+    {
+        "latitude": 53.7330566,
+        "longitude": 21.9134304,
+        "name": "Powiat piski"
+    },
+    {
+        "latitude": 51.9008344,
+        "longitude": 17.826303,
+        "name": "Powiat pleszewski"
+    },
+    {
+        "latitude": 52.5292906,
+        "longitude": 19.6944931,
+        "name": "Powiat p\u0142ocki"
+    },
+    {
+        "latitude": 52.5714161,
+        "longitude": 20.4021708,
+        "name": "Powiat p\u0142o\u0144ski"
+    },
+    {
+        "latitude": 51.904933,
+        "longitude": 18.8873051,
+        "name": "Powiat podd\u0119bicki"
+    },
+    {
+        "latitude": 53.6073945,
+        "longitude": 14.4111139,
+        "name": "Powiat policki"
+    },
+    {
+        "latitude": 51.4738876,
+        "longitude": 16.0198221,
+        "name": "Powiat polkowicki"
+    },
+    {
+        "latitude": 52.4071021,
+        "longitude": 16.9412479,
+        "name": "Powiat pozna\u0144ski"
+    },
+    {
+        "latitude": 50.2018348,
+        "longitude": 20.3184687,
+        "name": "Powiat proszowicki"
+    },
+    {
+        "latitude": 50.3886209,
+        "longitude": 17.6997454,
+        "name": "Powiat prudnicki"
+    },
+    {
+        "latitude": 52.1627843,
+        "longitude": 20.8153846,
+        "name": "Powiat pruszkowski"
+    },
+    {
+        "latitude": 53.1483961,
+        "longitude": 20.924927,
+        "name": "Powiat przasnyski"
+    },
+    {
+        "latitude": 49.7771435,
+        "longitude": 22.7785702,
+        "name": "Powiat przemyski"
+    },
+    {
+        "latitude": 50.0742865,
+        "longitude": 22.5411805,
+        "name": "Powiat przeworski"
+    },
+    {
+        "latitude": 51.4158462,
+        "longitude": 20.6795448,
+        "name": "Powiat przysuski"
+    },
+    {
+        "latitude": 50.0082731,
+        "longitude": 18.861219,
+        "name": "Powiat pszczy\u0144ski"
+    },
+    {
+        "latitude": 54.7744489,
+        "longitude": 18.2737787,
+        "name": "Powiat pucki"
+    },
+    {
+        "latitude": 51.4174556,
+        "longitude": 22.0546731,
+        "name": "Powiat pu\u0142awski"
+    },
+    {
+        "latitude": 52.68839850000001,
+        "longitude": 20.9854178,
+        "name": "Powiat pu\u0142tuski"
+    },
+    {
+        "latitude": 53.1032411,
+        "longitude": 14.9137558,
+        "name": "Powiat pyrzycki"
+    },
+    {
+        "latitude": 50.12036519999999,
+        "longitude": 18.1814454,
+        "name": "Powiat raciborski"
+    },
+    {
+        "latitude": 51.40272359999999,
+        "longitude": 21.1471334,
+        "name": "Powiat radomski"
+    },
+    {
+        "latitude": 51.08120599999999,
+        "longitude": 19.6244855,
+        "name": "Powiat radomszcza\u0144ski"
+    },
+    {
+        "latitude": 52.5766303,
+        "longitude": 18.5512416,
+        "name": "Powiat radziejowski"
+    },
+    {
+        "latitude": 51.7483711,
+        "longitude": 22.6145743,
+        "name": "Powiat radzy\u0144ski"
+    },
+    {
+        "latitude": 51.6584444,
+        "longitude": 16.9890188,
+        "name": "Powiat rawicki"
+    },
+    {
+        "latitude": 51.73399509999999,
+        "longitude": 20.3801744,
+        "name": "Powiat rawski"
+    },
+    {
+        "latitude": 50.0999177,
+        "longitude": 21.6564133,
+        "name": "Powiat ropczycko-s\u0119dziszowski"
+    },
+    {
+        "latitude": 50.1150463,
+        "longitude": 18.5396599,
+        "name": "Powiat rybnicki"
+    },
+    {
+        "latitude": 51.6164904,
+        "longitude": 21.9411997,
+        "name": "Powiat rycki"
+    },
+    {
+        "latitude": 53.0517202,
+        "longitude": 19.4397166,
+        "name": "Powiat rypi\u0144ski"
+    },
+    {
+        "latitude": 50.0197452,
+        "longitude": 22.0083082,
+        "name": "Powiat rzeszowski"
+    },
+    {
+        "latitude": 50.639222,
+        "longitude": 21.5549115,
+        "name": "Powiat sandomierski"
+    },
+    {
+        "latitude": 49.497926,
+        "longitude": 22.0947319,
+        "name": "Powiat sanocki"
+    },
+    {
+        "latitude": 54.0502486,
+        "longitude": 23.3185392,
+        "name": "Powiat sejne\u0144ski"
+    },
+    {
+        "latitude": 53.4496488,
+        "longitude": 17.5130857,
+        "name": "Powiat s\u0119pole\u0144ski"
+    },
+    {
+        "latitude": 52.1682859,
+        "longitude": 22.2705817,
+        "name": "Powiat siedlecki"
+    },
+    {
+        "latitude": 52.4826091,
+        "longitude": 22.9640433,
+        "name": "Powiat siemiatycki"
+    },
+    {
+        "latitude": 51.6402292,
+        "longitude": 18.6359814,
+        "name": "Powiat sieradzki"
+    },
+    {
+        "latitude": 52.829901,
+        "longitude": 19.6929043,
+        "name": "Powiat sierpecki"
+    },
+    {
+        "latitude": 51.0687982,
+        "longitude": 20.7823845,
+        "name": "Powiat skar\u017cyski"
+    },
+    {
+        "latitude": 51.9607088,
+        "longitude": 20.1602619,
+        "name": "Powiat skierniewicki"
+    },
+    {
+        "latitude": 54.38808659999999,
+        "longitude": 16.6089643,
+        "name": "Powiat s\u0142awie\u0144ski"
+    },
+    {
+        "latitude": 52.3368449,
+        "longitude": 14.7479227,
+        "name": "Powiat s\u0142ubicki"
+    },
+    {
+        "latitude": 52.2368221,
+        "longitude": 17.9179392,
+        "name": "Powiat s\u0142upecki"
+    },
+    {
+        "latitude": 54.4745287,
+        "longitude": 17.0284059,
+        "name": "Powiat s\u0142upski"
+    },
+    {
+        "latitude": 52.208836,
+        "longitude": 20.1940725,
+        "name": "Powiat sochaczewski"
+    },
+    {
+        "latitude": 52.5300078,
+        "longitude": 22.2816587,
+        "name": "Powiat soko\u0142owski"
+    },
+    {
+        "latitude": 53.4804542,
+        "longitude": 23.4091577,
+        "name": "Powiat sok\u00f3lski"
+    },
+    {
+        "latitude": 50.6225178,
+        "longitude": 22.0833908,
+        "name": "Powiat stalowowolski"
+    },
+    {
+        "latitude": 51.0517693,
+        "longitude": 21.1067058,
+        "name": "Powiat starachowicki"
+    },
+    {
+        "latitude": 53.3675297,
+        "longitude": 15.257525,
+        "name": "Powiat stargardzki"
+    },
+    {
+        "latitude": 53.8589184,
+        "longitude": 18.3428483,
+        "name": "Powiat starogardzki"
+    },
+    {
+        "latitude": 50.5333986,
+        "longitude": 21.2017973,
+        "name": "Powiat staszowski"
+    },
+    {
+        "latitude": 50.5236695,
+        "longitude": 18.3258162,
+        "name": "Powiat strzelecki"
+    },
+    {
+        "latitude": 52.9102052,
+        "longitude": 15.7119884,
+        "name": "Powiat strzelecko-drezdenecki"
+    },
+    {
+        "latitude": 50.8161834,
+        "longitude": 17.0007158,
+        "name": "Powiat strzeli\u0144ski"
+    },
+    {
+        "latitude": 49.9062558,
+        "longitude": 21.7658112,
+        "name": "Powiat strzy\u017cowski"
+    },
+    {
+        "latitude": 52.37239899999999,
+        "longitude": 15.1470452,
+        "name": "Powiat sul\u0119ci\u0144ski"
+    },
+    {
+        "latitude": 49.7009444,
+        "longitude": 19.6586221,
+        "name": "Powiat suski"
+    },
+    {
+        "latitude": 54.09621689999999,
+        "longitude": 22.9216482,
+        "name": "Powiat suwalski"
+    },
+    {
+        "latitude": 52.6306916,
+        "longitude": 16.4583259,
+        "name": "Powiat szamotulski"
+    },
+    {
+        "latitude": 53.7263402,
+        "longitude": 16.5362135,
+        "name": "Powiat szczecinecki"
+    },
+    {
+        "latitude": 53.5604093,
+        "longitude": 20.8938937,
+        "name": "Powiat szczycie\u0144ski"
+    },
+    {
+        "latitude": 53.89772720000001,
+        "longitude": 19.2164378,
+        "name": "Powiat sztumski"
+    },
+    {
+        "latitude": 51.2324627,
+        "longitude": 20.842185,
+        "name": "Powiat szyd\u0142owiecki"
+    },
+    {
+        "latitude": 52.1512246,
+        "longitude": 17.334844,
+        "name": "Powiat \u015bredzki (wojew\u00f3dztwo wielkopolskie)"
+    },
+    {
+        "latitude": 51.1369337,
+        "longitude": 16.5713037,
+        "name": "Powiat \u015bredzki (wojew\u00f3dztwo dolno\u015bl\u0105skie)"
+    },
+    {
+        "latitude": 52.0096542,
+        "longitude": 17.113896,
+        "name": "Powiat \u015bremski"
+    },
+    {
+        "latitude": 51.14912409999999,
+        "longitude": 22.8386303,
+        "name": "Powiat \u015bwidnicki (wojew\u00f3dztwo lubelskie)"
+    },
+    {
+        "latitude": 50.9003799,
+        "longitude": 16.4280157,
+        "name": "Powiat \u015bwidnicki (wojew\u00f3dztwo dolno\u015bl\u0105skie)"
+    },
+    {
+        "latitude": 53.7796961,
+        "longitude": 15.8285645,
+        "name": "Powiat \u015bwidwi\u0144ski"
+    },
+    {
+        "latitude": 52.2443924,
+        "longitude": 15.4559136,
+        "name": "Powiat \u015bwiebodzi\u0144ski"
+    },
+    {
+        "latitude": 53.4958476,
+        "longitude": 18.3687807,
+        "name": "Powiat \u015bwiecki"
+    },
+    {
+        "latitude": 50.5798603,
+        "longitude": 21.6925451,
+        "name": "Powiat tarnobrzeski"
+    },
+    {
+        "latitude": 50.4625163,
+        "longitude": 18.8263957,
+        "name": "Powiat tarnog\u00f3rski"
+    },
+    {
+        "latitude": 50.0366554,
+        "longitude": 20.9777456,
+        "name": "Powiat tarnowski"
+    },
+    {
+        "latitude": 49.3011534,
+        "longitude": 20.0014575,
+        "name": "Powiat tatrza\u0144ski"
+    },
+    {
+        "latitude": 53.8792936,
+        "longitude": 18.7785139,
+        "name": "Powiat tczewski"
+    },
+    {
+        "latitude": 51.62198189999999,
+        "longitude": 20.0241625,
+        "name": "Powiat tomaszowski (wojew\u00f3dztwo \u0142\u00f3dzkie)"
+    },
+    {
+        "latitude": 50.4807956,
+        "longitude": 23.6139646,
+        "name": "Powiat tomaszowski (wojew\u00f3dztwo lubelskie)"
+    },
+    {
+        "latitude": 53.0299205,
+        "longitude": 18.6294138,
+        "name": "Powiat toru\u0144ski"
+    },
+    {
+        "latitude": 51.4188443,
+        "longitude": 16.9985632,
+        "name": "Powiat trzebnicki"
+    },
+    {
+        "latitude": 53.5545868,
+        "longitude": 17.9946401,
+        "name": "Powiat tucholski"
+    },
+    {
+        "latitude": 51.9638571,
+        "longitude": 18.5288506,
+        "name": "Powiat turecki"
+    },
+    {
+        "latitude": 49.8915953,
+        "longitude": 19.5413958,
+        "name": "Powiat wadowicki"
+    },
+    {
+        "latitude": 50.7593258,
+        "longitude": 16.2197229,
+        "name": "Powiat wa\u0142brzyski"
+    },
+    {
+        "latitude": 53.2355426,
+        "longitude": 16.234465,
+        "name": "Powiat wa\u0142ecki"
+    },
+    {
+        "latitude": 52.2738835,
+        "longitude": 20.6938283,
+        "name": "Powiat warszawski zachodni"
+    },
+    {
+        "latitude": 53.2897249,
+        "longitude": 18.9517354,
+        "name": "Powiat w\u0105brzeski"
+    },
+    {
+        "latitude": 52.7845797,
+        "longitude": 17.2145897,
+        "name": "Powiat w\u0105growiecki"
+    },
+    {
+        "latitude": 54.6303285,
+        "longitude": 18.0306344,
+        "name": "Powiat wejherowski"
+    },
+    {
+        "latitude": 54.1729496,
+        "longitude": 21.7636445,
+        "name": "Powiat w\u0119gorzewski"
+    },
+    {
+        "latitude": 52.4242674,
+        "longitude": 21.906323,
+        "name": "Powiat w\u0119growski"
+    },
+    {
+        "latitude": 49.9412446,
+        "longitude": 20.2203878,
+        "name": "Powiat wielicki"
+    },
+    {
+        "latitude": 51.2402915,
+        "longitude": 18.6869712,
+        "name": "Powiat wielu\u0144ski"
+    },
+    {
+        "latitude": 51.3165967,
+        "longitude": 18.2184073,
+        "name": "Powiat wieruszowski"
+    },
+    {
+        "latitude": 52.6578834,
+        "longitude": 19.0676872,
+        "name": "Powiat w\u0142oc\u0142awski"
+    },
+    {
+        "latitude": 51.4988572,
+        "longitude": 23.39179,
+        "name": "Powiat w\u0142odawski"
+    },
+    {
+        "latitude": 50.845232,
+        "longitude": 19.9790989,
+        "name": "Powiat w\u0142oszczowski"
+    },
+    {
+        "latitude": 49.9884454,
+        "longitude": 18.4693241,
+        "name": "Powiat wodzis\u0142awski"
+    },
+    {
+        "latitude": 52.0666964,
+        "longitude": 16.117593,
+        "name": "Powiat wolszty\u0144ski"
+    },
+    {
+        "latitude": 52.3635504,
+        "longitude": 21.2897822,
+        "name": "Powiat wo\u0142omi\u0144ski"
+    },
+    {
+        "latitude": 51.3910837,
+        "longitude": 16.6003543,
+        "name": "Powiat wo\u0142owski"
+    },
+    {
+        "latitude": 51.1407764,
+        "longitude": 16.9831788,
+        "name": "Powiat wroc\u0142awski"
+    },
+    {
+        "latitude": 52.1944562,
+        "longitude": 17.6256124,
+        "name": "Powiat wrzesi\u0144ski"
+    },
+    {
+        "latitude": 51.825543,
+        "longitude": 16.1333484,
+        "name": "Powiat wschowski"
+    },
+    {
+        "latitude": 52.83792279999999,
+        "longitude": 22.5450705,
+        "name": "Powiat wysokomazowiecki"
+    },
+    {
+        "latitude": 52.5960483,
+        "longitude": 21.4782493,
+        "name": "Powiat wyszkowski"
+    },
+    {
+        "latitude": 53.0024585,
+        "longitude": 22.2851817,
+        "name": "Powiat zambrowski"
+    },
+    {
+        "latitude": 50.72202249999999,
+        "longitude": 23.2525495,
+        "name": "Powiat zamojski"
+    },
+    {
+        "latitude": 50.4834474,
+        "longitude": 19.5827637,
+        "name": "Powiat zawiercia\u0144ski"
+    },
+    {
+        "latitude": 50.589523,
+        "longitude": 16.8122514,
+        "name": "Powiat z\u0105bkowicki"
+    },
+    {
+        "latitude": 51.654763,
+        "longitude": 18.9438163,
+        "name": "Powiat zdu\u0144skowolski"
+    },
+    {
+        "latitude": 51.9025569,
+        "longitude": 19.4219463,
+        "name": "Powiat zgierski"
+    },
+    {
+        "latitude": 51.2488827,
+        "longitude": 15.1457788,
+        "name": "Powiat zgorzelecki"
+    },
+    {
+        "latitude": 51.9423914,
+        "longitude": 15.5208194,
+        "name": "Powiat zielonog\u00f3rski"
+    },
+    {
+        "latitude": 51.15577529999999,
+        "longitude": 15.8337662,
+        "name": "Powiat z\u0142otoryjski"
+    },
+    {
+        "latitude": 53.44188759999999,
+        "longitude": 16.9652247,
+        "name": "Powiat z\u0142otowski"
+    },
+    {
+        "latitude": 51.3354069,
+        "longitude": 21.5724503,
+        "name": "Powiat zwole\u0144ski"
+    },
+    {
+        "latitude": 51.5689064,
+        "longitude": 15.3245516,
+        "name": "Powiat \u017caga\u0144ski"
+    },
+    {
+        "latitude": 51.6950742,
+        "longitude": 15.021849,
+        "name": "Powiat \u017carski"
+    },
+    {
+        "latitude": 52.7911685,
+        "longitude": 17.7536284,
+        "name": "Powiat \u017cni\u0144ski"
+    },
+    {
+        "latitude": 53.0672753,
+        "longitude": 19.8704421,
+        "name": "Powiat \u017curomi\u0144ski"
+    },
+    {
+        "latitude": 52.0129718,
+        "longitude": 20.4227517,
+        "name": "Powiat \u017cyrardowski"
+    },
+    {
+        "latitude": 49.6089747,
+        "longitude": 19.2130256,
+        "name": "Powiat \u017cywiecki"
+    }
+]
