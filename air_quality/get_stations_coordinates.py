@@ -1,5 +1,4 @@
 import argparse
-import math
 
 import pandas as pd
 import requests
