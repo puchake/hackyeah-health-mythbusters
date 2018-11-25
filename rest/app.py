@@ -1,4 +1,6 @@
-from flask import Flask, jsonify
+from metrics import get_metric_providers
+
+from flask import Flask, jsonify, request
 import json
 
 
@@ -7,16 +9,9 @@ def load_regions():
         return json.load(f)
 
 
-def provide_metrics(location):
-    return [
-        {"metric1": 3},
-        {"metric2": 4},
-        {"metric3": 5}
-    ]
-
-
 app = Flask(__name__)
 app.config.regions = load_regions()
+app.config.metric_providers = get_metric_providers()
 
 
 @app.route('/regions', methods=['GET'])
@@ -26,8 +21,16 @@ def regions():
 
 @app.route('/metrics', methods=['POST'])
 def metrics():
+    print(vars(request).keys())
     location = request.json
-    return jsonify(provide_metrics(location))
+    location = [location['longitude'], location['latitude']]
+    metrics = []
+    for p in app.config.metric_providers:
+        metrics.append({
+            "name": p.name,
+            "value": p.provide_metrics(location).tolist()
+        })
+    return jsonify(metrics)
 
 
 if __name__ == '__main__':
